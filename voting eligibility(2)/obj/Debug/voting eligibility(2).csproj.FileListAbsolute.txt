@@ -1,0 +1,7 @@
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\voting eligibility(2)\bin\Debug\voting eligibility(2).exe.config
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\voting eligibility(2)\bin\Debug\voting eligibility(2).exe
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\voting eligibility(2)\bin\Debug\voting eligibility(2).pdb
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\voting eligibility(2)\obj\Debug\voting eligibility(2).csproj.AssemblyReference.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\voting eligibility(2)\obj\Debug\voting eligibility(2).csproj.CoreCompileInputs.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\voting eligibility(2)\obj\Debug\voting eligibility(2).exe
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\voting eligibility(2)\obj\Debug\voting eligibility(2).pdb
