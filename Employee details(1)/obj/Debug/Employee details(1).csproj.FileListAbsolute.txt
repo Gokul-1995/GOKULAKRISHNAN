@@ -1,0 +1,7 @@
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\Employee details(1)\bin\Debug\Employee details(1).exe.config
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\Employee details(1)\bin\Debug\Employee details(1).exe
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\Employee details(1)\bin\Debug\Employee details(1).pdb
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\Employee details(1)\obj\Debug\Employee details(1).csproj.AssemblyReference.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\Employee details(1)\obj\Debug\Employee details(1).csproj.CoreCompileInputs.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\Employee details(1)\obj\Debug\Employee details(1).exe
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-2\Employee details(1)\obj\Debug\Employee details(1).pdb
