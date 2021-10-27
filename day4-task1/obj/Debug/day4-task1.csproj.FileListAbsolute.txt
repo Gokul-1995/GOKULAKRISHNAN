@@ -1,0 +1,7 @@
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task1\bin\Debug\day4-task1.exe.config
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task1\bin\Debug\day4-task1.exe
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task1\bin\Debug\day4-task1.pdb
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task1\obj\Debug\day4-task1.csproj.AssemblyReference.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task1\obj\Debug\day4-task1.csproj.CoreCompileInputs.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task1\obj\Debug\day4-task1.exe
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task1\obj\Debug\day4-task1.pdb
