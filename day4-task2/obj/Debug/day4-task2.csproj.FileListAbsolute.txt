@@ -1,0 +1,6 @@
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task2\bin\Debug\day4-task2.exe.config
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task2\bin\Debug\day4-task2.exe
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task2\bin\Debug\day4-task2.pdb
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task2\obj\Debug\day4-task2.csproj.CoreCompileInputs.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task2\obj\Debug\day4-task2.exe
+E:\OFFICE\INDIUM\C SHARP\TASK\TASK-4\day4-task2\obj\Debug\day4-task2.pdb
