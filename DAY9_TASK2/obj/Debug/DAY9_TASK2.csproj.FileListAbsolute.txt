@@ -1,0 +1,2 @@
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-9\DAY9_TASK2\obj\Debug\DAY9_TASK2.csproj.AssemblyReference.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-9\DAY9_TASK2\obj\Debug\DAY9_TASK2.csproj.CoreCompileInputs.cache
