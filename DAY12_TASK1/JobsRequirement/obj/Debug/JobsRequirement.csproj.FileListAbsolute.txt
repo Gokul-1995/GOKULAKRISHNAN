@@ -1,0 +1,7 @@
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-12\DAY12_TASK1\JobsRequirement\obj\Debug\JobsRequirement.csproj.AssemblyReference.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-12\DAY12_TASK1\JobsRequirement\obj\Debug\JobsRequirement.csproj.CoreCompileInputs.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-12\DAY12_TASK1\JobsRequirement\bin\Debug\JobsRequirement.exe.config
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-12\DAY12_TASK1\JobsRequirement\bin\Debug\JobsRequirement.exe
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-12\DAY12_TASK1\JobsRequirement\bin\Debug\JobsRequirement.pdb
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-12\DAY12_TASK1\JobsRequirement\obj\Debug\JobsRequirement.exe
+E:\OFFICE\INDIUM\C SHARP\TASK\DAY-12\DAY12_TASK1\JobsRequirement\obj\Debug\JobsRequirement.pdb
