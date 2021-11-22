@@ -1,0 +1,2 @@
+E:\OFFICE\INDIUM\C SHARP\TASK\SELENIUM\WebpageTesting\obj\Debug\WebpageTesting.csproj.AssemblyReference.cache
+E:\OFFICE\INDIUM\C SHARP\TASK\SELENIUM\WebpageTesting\obj\Debug\WebpageTesting.csproj.CoreCompileInputs.cache
